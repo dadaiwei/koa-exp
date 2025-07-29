@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "koa": "^2.11.0",
+    "koa": "^3.0.1",
     "koa-router": "^7.4.0"
   }
 }
